@@ -25,7 +25,7 @@ A machine learning-based web application that predicts the price of a car based 
 ### Installation Steps
 1. **Clone the repository**:
    ```{bash}
-   git clone https://github.com/rajtilakls2510/car_price_predictor.git
+   git clone https://github.com/18vaa/car_price_prediction.git
    cd car_price_predictor
    ```
 
