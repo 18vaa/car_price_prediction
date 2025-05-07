@@ -2,6 +2,8 @@
 
 A machine learning-based web application that predicts the price of a car based on its attributes. The data was scraped from QuikR, cleaned, and used to train a Linear Regression model. The system is deployed locally using Flask.
 
+![Demo](https://github.com/18vaa/car_price_prediction/blob/main/assets/demo.png)
+
 ## Features
 - **Data Collection**: Scraped car data (name, company, year, kilometers driven, fuel type) from QuikR.
 - **Data Cleaning**: Processed raw data to handle missing values, outliers, and inconsistencies.
