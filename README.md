@@ -1,7 +1,5 @@
 # AutoPricer - ML-powered Car Price Prediction
 
-# Car Price Prediction System
-
 A machine learning-based web application that predicts the price of a car based on its attributes. The data was scraped from QuikR, cleaned, and used to train a Linear Regression model. The system is deployed locally using Flask.
 
 ## Features
